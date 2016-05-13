@@ -63,7 +63,7 @@ A standalone UMD build is also available on [npmcdn](https://npmcdn.com/) for qu
 
 ## Features
 
-* Very small (~100 lines for core)
+* Very small (~100 lines for code)
 * lodash API
 * Extendable:
   * __Custom storage__ (file, browser, in-memory, ...)
